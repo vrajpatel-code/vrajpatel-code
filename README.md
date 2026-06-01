@@ -10,7 +10,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-0e0e16?style=flat-square&logo=github&logoColor=f0eeff)](https://github.com/vrajpatel-code)
 
 <!-- Typing -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Mono&weight=500&size=16&duration=3000&pause=1000&color=7F77DD&center=true&vCenter=true&width=580&lines=Building+products+that+actually+ship;React+%2B+Next.js+%2B+TypeScript+developer;Open+to+full-time+roles+%26+internships+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Mono&weight=500&size=16&duration=3000&pause=1000&color=7F77DD&center=true&vCenter=true&width=580&lines=Building+products+that+actually+ship;React+%2B+Next.js+%2B+JavaScript+developer;Open+to+full-time+roles+%26+internships+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
@@ -109,11 +109,6 @@ Official hackathon submission built on clean .NET architecture with scalable API
 ## GitHub Stats
 
 <div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=vrajpatel-code&show_icons=true&theme=github_dark&hide_border=true&bg_color=0e0e16&title_color=7F77DD&icon_color=1D9E75&text_color=888780&include_all_commits=true&count_private=true"/>
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vrajpatel-code&layout=compact&theme=github_dark&hide_border=true&bg_color=0e0e16&title_color=7F77DD&text_color=888780&langs_count=6"/>
-
-<br/>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=vrajpatel-code&theme=github-dark-blue&hide_border=true&background=0e0e16&ring=7F77DD&fire=D85A30&currStreakLabel=AFA9EC)](https://git.io/streak-stats)
 
