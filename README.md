@@ -26,7 +26,7 @@ const vraj = {
   location:  "Gujarat, India 🇮🇳",
   openTo:    ["Full-time roles", "Internships", "Freelance projects"],
   building:  "products that actually work",
-  contact:   "your-email@example.com",
+  contact:   "vraj.patel.03.2005@gmail.com",
 };
 ```
 
@@ -138,7 +138,7 @@ Official hackathon submission built on clean .NET architecture with scalable API
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-534AB7?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vraj-patel-130b3b271)
-[![Email](https://img.shields.io/badge/Send%20an%20Email-D85A30?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![Email](https://img.shields.io/badge/Send%20an%20Email-D85A30?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vraj.patel.03.2005@gmail.com)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e0e16,50:1a1a28,100:0a0a0f&height=80&section=footer" width="100%"/>
 
