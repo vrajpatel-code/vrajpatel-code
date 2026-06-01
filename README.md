@@ -116,16 +116,6 @@ Official hackathon submission built on clean .NET architecture with scalable API
 
 ---
 
-## Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=vrajpatel-code&theme=darkhub&no-frame=true&row=1&column=6&margin-w=6)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
 ## Let's Work Together
 
 > I build things that **actually ship**. From hackathon submissions to real-world automation tools — I move fast and care about the details. If you're looking for a developer who's hungry and deliberate, let's talk.
